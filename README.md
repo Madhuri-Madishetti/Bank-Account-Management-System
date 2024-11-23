@@ -1,1 +1,2 @@
 # Bank-Account-Management-System
+The Bank Account Management System, a Java-based application, empowers customers to conduct essential banking transactions conveniently from their homes or offices using a PC or laptop. This robust system facilitates account creation, deposits, withdrawals, and comprehensive account reporting. Leveraging Java's object-oriented programming capabilities, the system ensures secure and efficient banking operations, providing a user-friendly interface and robust data management.
